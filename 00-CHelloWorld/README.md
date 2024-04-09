@@ -1,1 +1,1 @@
-Hello World
+Compilador seleccionado: GCC.
