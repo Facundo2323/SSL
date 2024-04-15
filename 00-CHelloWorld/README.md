@@ -1,1 +1,1 @@
-Compilador seleccionado: GCC.
+Compilador seleccionado: c11 (GCC)
